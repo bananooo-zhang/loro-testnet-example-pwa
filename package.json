@@ -1,7 +1,7 @@
 {
   "private": true,
   "name": "@elf1/pwa-test-12",
-  "version": "0.1.26",
+  "version": "0.1.27.1",
   "repository": "https://github.com/bananooo-zhang/loro-testnet-example-pwa",
   "scripts": {
     "dev": "next dev",
